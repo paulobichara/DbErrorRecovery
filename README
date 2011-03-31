@@ -1,0 +1,16 @@
+
+-------------------------------------------------------------------
+@Author: Paulo Augusto Dacach Bichara (contato@paulobichara.org)
+-------------------------------------------------------------------
+
+Academic project from Database II class that simulates a database error 
+recovery system, based in log generation, checkpoints and REDOs. You can 
+create several transactions and resources and simulates transaction operations 
+of: START, COMMIT, WRITE and READ, besides an error generator.
+
+I'm submitting with the eclipse project structure, so, to run, just 
+checkout the project folder into your eclipse's workspace, go to 
+"Import -> Existing Project Into Workspace" and select its folder. The 
+main class is Form.java.
+
+Good luck!
